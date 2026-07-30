@@ -1,9 +1,9 @@
 # SBK_SP1
 
 <p align="center">
-  <img src="docs/images/front.png" alt="Front" height="340">
+  <img src="docs/images/module-front.png" alt="Front" height="340">
   &nbsp;&nbsp;&nbsp;
-  <img src="docs/images/back.png" alt="Back" height="340">
+  <img src="docs/images/module-back.png" alt="Back" height="340">
 </p>
 
 <p align="center">
