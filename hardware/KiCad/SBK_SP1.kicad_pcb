@@ -337,7 +337,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/46dd2ef7-c416-440b-aa9c-2cc33bb74dd4")
 		(sheetname "/")
-		(sheetfile "SBK_SP1_v1_0.kicad_sch")
+		(sheetfile "SBK_SP1.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -690,7 +690,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/f4fea13e-0dc2-43dc-beb4-bbce441479b6")
 		(sheetname "/")
-		(sheetfile "SBK_SP1_v1_0.kicad_sch")
+		(sheetfile "SBK_SP1.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -1031,7 +1031,7 @@
 		(property ki_fp_filters "SOT?23*")
 		(path "/9727f76b-d84d-4ccd-b346-380b4c28d6d2")
 		(sheetname "/")
-		(sheetfile "SBK_SP1_v1_0.kicad_sch")
+		(sheetfile "SBK_SP1.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -1532,7 +1532,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/79ec1ee4-81e1-45e0-917a-fa5b7ad11703")
 		(sheetname "/")
-		(sheetfile "SBK_SP1_v1_0.kicad_sch")
+		(sheetfile "SBK_SP1.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -1823,7 +1823,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/0a896f30-8b7a-417d-9d38-6938c468e23b")
 		(sheetname "/")
-		(sheetfile "SBK_SP1_v1_0.kicad_sch")
+		(sheetfile "SBK_SP1.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -2114,7 +2114,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/612bcb78-a130-4ccd-83bb-7f1e20c3b168")
 		(sheetname "/")
-		(sheetfile "SBK_SP1_v1_0.kicad_sch")
+		(sheetfile "SBK_SP1.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -2393,7 +2393,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/4993968e-3c63-4cba-b0b8-42963d58a8b3")
 		(sheetname "/")
-		(sheetfile "SBK_SP1_v1_0.kicad_sch")
+		(sheetfile "SBK_SP1.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -2672,7 +2672,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/6b07cb94-fb9f-44f1-8692-4aab034182f6")
 		(sheetname "/")
-		(sheetfile "SBK_SP1_v1_0.kicad_sch")
+		(sheetfile "SBK_SP1.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -2962,7 +2962,7 @@
 		)
 		(path "/b06ecde4-084a-47b4-bf85-3a18af00c1a3")
 		(sheetname "/")
-		(sheetfile "SBK_SP1_v1_0.kicad_sch")
+		(sheetfile "SBK_SP1.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -3476,7 +3476,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/294d37d9-40d8-48a7-8a53-69369761b8ae")
 		(sheetname "/")
-		(sheetfile "SBK_SP1_v1_0.kicad_sch")
+		(sheetfile "SBK_SP1.kicad_sch")
 		(units
 			(unit
 				(name "A")

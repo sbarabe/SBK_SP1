@@ -2114,7 +2114,7 @@
 			(uuid "3453ceb6-e36c-4515-b624-dfe63e8e831a")
 		)
 		(instances
-			(project "SBK_SP1_v1_0"
+			(project "SBK_SP1"
 				(path "/9f488a9d-c0ac-43bb-9247-02275b443fcc"
 					(reference "R5")
 					(unit 1)
@@ -2302,7 +2302,7 @@
 			(uuid "bcb6869e-154e-4843-9aa0-841d36d4d071")
 		)
 		(instances
-			(project "SBK_SP1_v1_0"
+			(project "SBK_SP1"
 				(path "/9f488a9d-c0ac-43bb-9247-02275b443fcc"
 					(reference "J1")
 					(unit 1)
@@ -2379,7 +2379,7 @@
 			(uuid "76641bbd-2051-42e3-9491-820097183985")
 		)
 		(instances
-			(project "SBK_SP1_v1_0"
+			(project "SBK_SP1"
 				(path "/9f488a9d-c0ac-43bb-9247-02275b443fcc"
 					(reference "#PWR02")
 					(unit 1)
@@ -2580,7 +2580,7 @@
 			(uuid "a6d726f5-1435-4fa8-b6c5-b177eb333f8d")
 		)
 		(instances
-			(project "SBK_SP1_v1_0"
+			(project "SBK_SP1"
 				(path "/9f488a9d-c0ac-43bb-9247-02275b443fcc"
 					(reference "D2")
 					(unit 1)
@@ -2770,7 +2770,7 @@
 			(uuid "57c477c5-3157-4f06-9bbf-f78c6b4d5e1a")
 		)
 		(instances
-			(project "SBK_SP1_v1_0"
+			(project "SBK_SP1"
 				(path "/9f488a9d-c0ac-43bb-9247-02275b443fcc"
 					(reference "R1")
 					(unit 1)
@@ -2847,7 +2847,7 @@
 			(uuid "44772464-f278-4cf4-aba1-4b0d696b1e28")
 		)
 		(instances
-			(project "SBK_SP1_v1_0"
+			(project "SBK_SP1"
 				(path "/9f488a9d-c0ac-43bb-9247-02275b443fcc"
 					(reference "#PWR04")
 					(unit 1)
@@ -3037,7 +3037,7 @@
 			(uuid "5fb32778-90df-4efc-bdcd-dbb76fbea96c")
 		)
 		(instances
-			(project "SBK_SP1_v1_0"
+			(project "SBK_SP1"
 				(path "/9f488a9d-c0ac-43bb-9247-02275b443fcc"
 					(reference "R4")
 					(unit 1)
@@ -3227,7 +3227,7 @@
 			(uuid "66d9b071-5387-4938-a920-4168411d8492")
 		)
 		(instances
-			(project "SBK_SP1_v1_0"
+			(project "SBK_SP1"
 				(path "/9f488a9d-c0ac-43bb-9247-02275b443fcc"
 					(reference "R2")
 					(unit 1)
@@ -3417,7 +3417,7 @@
 			(uuid "e8cde2d3-3b48-41b3-98ac-e09a1c3bdbe4")
 		)
 		(instances
-			(project "SBK_SP1_v1_0"
+			(project "SBK_SP1"
 				(path "/9f488a9d-c0ac-43bb-9247-02275b443fcc"
 					(reference "R3")
 					(unit 1)
@@ -3494,7 +3494,7 @@
 			(uuid "ccfd923f-3302-4629-912f-384b6097c1dd")
 		)
 		(instances
-			(project "SBK_SP1_v1_0"
+			(project "SBK_SP1"
 				(path "/9f488a9d-c0ac-43bb-9247-02275b443fcc"
 					(reference "#PWR06")
 					(unit 1)
@@ -3691,7 +3691,7 @@
 			(uuid "41ba953e-bf4a-4ad0-8f42-faff763df179")
 		)
 		(instances
-			(project "SBK_SP1_v1_0"
+			(project "SBK_SP1"
 				(path "/9f488a9d-c0ac-43bb-9247-02275b443fcc"
 					(reference "Q1")
 					(unit 1)
@@ -3770,7 +3770,7 @@
 			(uuid "5dab0741-0644-414f-8711-020d909b2549")
 		)
 		(instances
-			(project "SBK_SP1_v1_0"
+			(project "SBK_SP1"
 				(path "/9f488a9d-c0ac-43bb-9247-02275b443fcc"
 					(reference "#PWR01")
 					(unit 1)
@@ -3965,7 +3965,7 @@
 			(uuid "9af2d612-901d-40a9-b5cd-a98bf19af8b4")
 		)
 		(instances
-			(project "SBK_SP1_v1_0"
+			(project "SBK_SP1"
 				(path "/9f488a9d-c0ac-43bb-9247-02275b443fcc"
 					(reference "Q2")
 					(unit 1)
@@ -4043,7 +4043,7 @@
 			(uuid "fcb6b564-5269-4051-8742-0800a80c1940")
 		)
 		(instances
-			(project "SBK_SP1_v1_0"
+			(project "SBK_SP1"
 				(path "/9f488a9d-c0ac-43bb-9247-02275b443fcc"
 					(reference "#PWR05")
 					(unit 1)
@@ -4120,7 +4120,7 @@
 			(uuid "4e6373da-19bd-4559-add9-3a05e8d1cae4")
 		)
 		(instances
-			(project "SBK_SP1_v1_0"
+			(project "SBK_SP1"
 				(path "/9f488a9d-c0ac-43bb-9247-02275b443fcc"
 					(reference "#PWR03")
 					(unit 1)
@@ -4320,7 +4320,7 @@
 			(uuid "04b4dd82-f723-472b-ae00-de19bb767fdc")
 		)
 		(instances
-			(project "SBK_SP1_v1_0"
+			(project "SBK_SP1"
 				(path "/9f488a9d-c0ac-43bb-9247-02275b443fcc"
 					(reference "D1")
 					(unit 1)

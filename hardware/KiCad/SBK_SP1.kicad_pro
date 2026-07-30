@@ -524,7 +524,7 @@
     ]
   },
   "meta": {
-    "filename": "SBK_SP1_v1_0.kicad_pro",
+    "filename": "SBK_SP1.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -770,7 +770,7 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "SBK_SP1_v1_0.kicad_sch",
+        "filename": "SBK_SP1.kicad_sch",
         "name": "Racine",
         "uuid": "9f488a9d-c0ac-43bb-9247-02275b443fcc"
       }
