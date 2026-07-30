@@ -15,7 +15,7 @@
 
 ## Open-source soft power switch module for learning and embedded electronics projects.
 
-SBK_SP1 is a compact, reusable soft power switch module for battery-powered embedded systems. It allows a momentary push button and a microcontroller GPIO to control system power while drawing only a few microamps when switched off.
+SBK_SP1 is a compact, reusable hardware module for battery-powered embedded systems. It allows a momentary push button and a microcontroller GPIO to control system power while drawing only a few microamps when switched off.
 
 Designed for breadboards, prototypes, and educational projects, SBK_SP1 provides an easy way to add professional soft power management to Arduino, ESP32, RP2040, ATtiny, STM32, and similar microcontroller-based systems.
 
@@ -75,7 +75,7 @@ A momentary push button is connected to the **CTRL** input to power the system. 
 
 ## Applications
 
-S### Microcontroller platforms
+### Microcontroller platforms
 
 - Arduino
 - ESP32
