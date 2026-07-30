@@ -90,3 +90,5 @@ This project is released as open-source hardware under the **CERN Open Hardware 
 You are free to study, modify, manufacture, and distribute this design, provided the terms of the license are respected.
 
 See the [LICENSE](LICENSE) file for the full license text.
+
+## Design with KiCad 10
