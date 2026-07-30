@@ -92,6 +92,18 @@ A momentary push button is connected to the **CTRL** input to power the system. 
 
 ---
 
+## Getting Started
+
+This project is fully open-source. You can:
+
+- Build your own board from the provided KiCad files.
+- Modify the design to suit your application.
+- Purchase a fully assembled board from my Tindie store if you prefer to start experimenting immediately.
+
+**Tindie:** https://www.tindie.com/...
+
+---
+
 ## Related Projects
 
 - [**SBK_RP1**](https://github.com/sbarabe/SBK_RP1) – Reverse Polarity Protection Module
