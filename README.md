@@ -98,9 +98,9 @@ This project is fully open-source. You can:
 
 - Build your own board from the provided KiCad files.
 - Modify the design to suit your application.
-- Purchase a fully assembled board from my Tindie store if you prefer to start experimenting immediately.
+- *(Coming soon)* Purchase a fully assembled board from my Tindie store if you prefer to start experimenting immediately.
 
-**Tindie:** https://www.tindie.com/...
+[**SBK Tindie Store**](https://www.tindie.com/stores/smartbuildskits/)
 
 ---
 
