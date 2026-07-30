@@ -15,7 +15,7 @@ Designed for breadboards, prototypes, and educational projects, SBK_SP1 provides
 - High-side **P-channel MOSFET** switching
 - Microcontroller-controlled soft power latching
 - Ultra-low off-state current
-- Power output status LED
+- Power input and output status LEDs
 - Breadboard-friendly 2.54 mm pin header
 - Fully assembled with JLCPCB Basic components
 
@@ -78,11 +78,15 @@ SBK_SP1 is suitable for a wide variety of battery-powered embedded projects, inc
 
 ## Related Projects
 
-- **SBK_RP1** – Reverse Polarity Protection Module
-- **MémoBot** – Educational memory game built using SBK_SP1 and SBK_RP1
+- [**SBK_RP1**](https://github.com/sbarabe/SBK_RP1) – Reverse Polarity Protection Module
+- [**MémoBot**](https://github.com/sbarabe/MemoBot) – Educational memory game built using SBK_SP1 and SBK_RP1
 
 ---
 
 ## License
 
-This project is released as open-source hardware.
+This project is released as open-source hardware under the **CERN Open Hardware Licence Version 2 - Permissive (CERN-OHL-P v2)**.
+
+You are free to study, modify, manufacture, and distribute this design, provided the terms of the license are respected.
+
+See the [LICENSE](LICENSE) file for the full license text.
