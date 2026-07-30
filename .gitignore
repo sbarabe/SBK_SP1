@@ -1,4 +1,56 @@
-### AL ###
+# =====================================================================
+# KiCad
+# =====================================================================
+
+# User-specific settings
+*.kicad_prl
+*.kicad_pro-bak
+*.kicad_prl-bak
+
+# Autosave and backups
+*-backups/
+*.bak
+*.tmp
+*.lck
+*.autosave
+
+# Cache files
+fp-info-cache
+sym-lib-table.tmp
+*.cache
+
+# Plot and fabrication output (if generated locally)
+plots/
+gerbers/
+drill/
+
+# 3D export
+*.step-bak
+
+# =====================================================================
+# Operating System
+# =====================================================================
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# =====================================================================
+# IDEs
+# =====================================================================
+
+.vscode/
+.idea/
+
+# =====================================================================
+# Python (if you use scripts)
+# =====================================================================
+
+__pycache__/
+*.pyc### AL ###
 #Template for AL projects for Dynamics 365 Business Central
 #launch.json folder
 .vscode/
