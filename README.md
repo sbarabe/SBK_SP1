@@ -94,13 +94,13 @@ A momentary push button is connected to the **CTRL** input to power the system. 
 
 ## Getting Started
 
-This project is fully open-source. You can:
+This project is fully open-source hardware. You can:
 
-- Build your own board from the provided KiCad files.
+- Build your own board using the provided KiCad design files.
 - Modify the design to suit your application.
 - *(Coming soon)* Purchase a fully assembled board from my Tindie store if you prefer to start experimenting immediately.
 
-[**SBK Tindie Store**](https://www.tindie.com/stores/smartbuildskits/)
+👉 [**SBK Tindie Store**](https://www.tindie.com/stores/smartbuildskits/)
 
 ---
 
