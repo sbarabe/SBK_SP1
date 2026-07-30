@@ -1,8 +1,14 @@
 # SBK_SP1
 
 <p align="center">
-  <img src="docs/images/module-front.png" alt="SBK_SP1 Front" width="320">
-  <img src="docs/images/module-back.png" alt="SBK_SP1 Back" width="320">
+  <img src="docs/images/front.png" alt="Front" height="340">
+  &nbsp;&nbsp;&nbsp;
+  <img src="docs/images/back.png" alt="Back" height="340">
+</p>
+
+<p align="center">
+  <b>Front</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Back</b>
 </p>
 
 **Open-source soft power switch module for learning and embedded electronics projects.**
