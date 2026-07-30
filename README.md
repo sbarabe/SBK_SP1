@@ -7,11 +7,14 @@
 </p>
 
 <p align="center">
-  <b>Front</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Front</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <b>Back</b>
 </p>
 
-**Open-source soft power switch module for learning and embedded electronics projects.**
+
+<p align="center">
+<strong>Open-source soft power switch module for learning and embedded electronics projects.</strong>
+</p>
 
 SBK_SP1 is a compact, reusable soft power switch module for battery-powered embedded systems. It allows a momentary push button and a microcontroller GPIO to control system power while drawing only a few microamps when switched off.
 
