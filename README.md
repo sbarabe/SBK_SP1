@@ -1,8 +1,13 @@
 # SBK_SP1
 
+<p align="center">
+  <img src="docs/images/module-front.png" alt="SBK_SP1 Front" width="320">
+  <img src="docs/images/module-back.png" alt="SBK_SP1 Back" width="320">
+</p>
+
 **Open-source soft power switch module for learning and embedded electronics projects.**
 
-SBK_SP1 is a compact, reusable soft power switch module for battery-powered embedded systems. It allows a momentary push button and a microcontroller GPIO to control system power while consuming only a few microamps when turned off.
+SBK_SP1 is a compact, reusable soft power switch module for battery-powered embedded systems. It allows a momentary push button and a microcontroller GPIO to control system power while drawing only a few microamps when switched off.
 
 Designed for breadboards, prototypes, and educational projects, SBK_SP1 provides an easy way to add professional soft power management to Arduino, ESP32, RP2040, ATtiny, STM32, and similar microcontroller-based systems.
 
@@ -17,7 +22,7 @@ Designed for breadboards, prototypes, and educational projects, SBK_SP1 provides
 - Ultra-low off-state current
 - Power input and output status LEDs
 - Breadboard-friendly 2.54 mm pin header
-- Fully assembled with JLCPCB Basic components
+- Optimized for low-cost assembly using JLCPCB Basic components
 
 ---
 
@@ -41,7 +46,7 @@ SBK_RP1 (optional)
    │
 SBK_SP1
    │
-Microcontroller
+Embedded System
 ```
 
 A momentary push button is connected to the **CTRL** input to power the system. Once the microcontroller has started, it drives **CTRL** HIGH to keep the module enabled. When the application is ready to shut down, the microcontroller releases the **CTRL** pin, automatically removing power from the system.
@@ -55,20 +60,23 @@ A momentary push button is connected to the **CTRL** input to power the system. 
 3. SBK_SP1 enables the power output (**VOUT**).
 4. The microcontroller boots.
 5. The microcontroller drives **CTRL** HIGH to maintain power after the button is released.
-6. When shutdown is requested, the microcontroller releases **CTRL**.
+6. When shutdown is requested, the microcontroller drives **CTRL** LOW (or configures it as a high-impedance input).
 7. SBK_SP1 disconnects power from the load.
 
 ---
 
 ## Applications
 
-SBK_SP1 is suitable for a wide variety of battery-powered embedded projects, including:
+S### Microcontroller platforms
 
 - Arduino
 - ESP32
 - RP2040
 - ATtiny
 - STM32
+
+### Example applications
+
 - Portable instruments
 - Battery-powered sensors
 - Educational electronics projects
@@ -91,4 +99,8 @@ You are free to study, modify, manufacture, and distribute this design, provided
 
 See the [LICENSE](LICENSE) file for the full license text.
 
-## Design with KiCad 10
+---
+
+## Design Files
+
+This project was designed using **KiCad 10**.
