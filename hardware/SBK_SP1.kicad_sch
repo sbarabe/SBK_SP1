@@ -1642,6 +1642,12 @@
 		(uuid "07526ede-9bc9-4689-af30-5497f40ce960")
 	)
 	(junction
+		(at 77.47 140.335)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "190e74a5-7e7b-4d79-ae01-c1fc9758552f")
+	)
+	(junction
 		(at 79.375 135.255)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1752,6 +1758,16 @@
 			(type default)
 		)
 		(uuid "2e917e0c-8ac2-446a-a52f-192ed4aee0c4")
+	)
+	(wire
+		(pts
+			(xy 77.47 144.78) (xy 77.47 140.335)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2f15127a-78d6-4455-9d61-6f8fa8cd8b4d")
 	)
 	(wire
 		(pts
@@ -1875,6 +1891,16 @@
 	)
 	(wire
 		(pts
+			(xy 73.66 144.78) (xy 77.47 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b82ffda1-fbe4-492d-a124-3f75313a7d22")
+	)
+	(wire
+		(pts
 			(xy 83.82 137.795) (xy 83.82 149.225)
 		)
 		(stroke
@@ -1932,6 +1958,30 @@
 			(type default)
 		)
 		(uuid "f73b17f2-7a14-46ec-b792-c1e0b33a1faa")
+	)
+	(global_label "CTRL"
+		(shape input)
+		(at 73.66 144.78 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "952007d1-898d-42f5-b0dd-c2e67459e1c6")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 66.1391 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
 	)
 	(symbol
 		(lib_id "Device:R")
@@ -3560,7 +3610,7 @@
 				(justify left)
 			)
 		)
-		(property "Description" "P-channel MOSFET"
+		(property "Description" "N-channel MOSFET"
 			(at 105.41 140.335 0)
 			(hide yes)
 			(show_name no)
@@ -3834,7 +3884,7 @@
 				)
 			)
 		)
-		(property "Description" "N-channel MOSFET"
+		(property "Description" "P-channel MOSFET"
 			(at 114.935 130.175 0)
 			(hide yes)
 			(show_name no)
