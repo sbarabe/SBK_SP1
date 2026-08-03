@@ -127,6 +127,27 @@ Assembled modules are intended for hobbyists, educators, prototypes, and small-s
 
 ---
 
+## Contributing
+
+Suggestions, bug reports, and improvements are welcome.
+
+If you find a bug or have an idea for making this project more educational or easier to build, feel free to open an Issue or submit a Pull Request.
+
+---
+
+## Support the Project
+
+If you find this project useful for learning, teaching, or your own projects, consider supporting its continued development.
+
+Your support helps fund prototype hardware, documentation, educational content, and future open-source projects.
+
+❤️ **PayPal Donations**
+
+https://paypal.me/sbarab?country.x=CA&locale.x=fr_CA
+
+Thank you for helping make open-source educational hardware available to everyone.
+
+
 ## License
 
 This project is released as open-source hardware under the **CERN Open Hardware Licence Version 2 - Permissive (CERN-OHL-P v2)**.
