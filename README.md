@@ -104,11 +104,19 @@ A momentary push button is connected to the **CTRL** input to power the system. 
 
 This project is fully open-source hardware. You can:
 
-- Build your own board using the provided KiCad design files.
+- Build your own module using the provided KiCad design files.
 - Modify the design to suit your application.
-- *(Coming soon)* Purchase a fully assembled board from my Tindie store if you prefer to start experimenting immediately.
+- Manufacture your own boards.
 
-👉 [**SBK Tindie Store**](https://www.tindie.com/stores/smartbuildskits/)
+### Assembled Modules
+
+If you would prefer fully assembled modules rather than assembling the PCBs yourself, I can provide professionally assembled modules in small batches on demand.
+
+For availability, pricing, or custom quantities, please contact:
+
+📧 **SmartBuildsKits@gmail.com**
+
+Assembled modules are intended for hobbyists, educators, prototypes, and small-scale projects. Availability depends on component stock and production capacity.
 
 ---
 
