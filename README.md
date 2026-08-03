@@ -110,13 +110,13 @@ This project is fully open-source hardware. You can:
 
 ### Assembled Modules
 
-If you would prefer fully assembled modules rather than assembling the PCBs yourself, I can provide professionally assembled modules in small batches on demand.
+If you prefer a ready-to-use module, fully assembled SBK_SP1 boards may be available in small batches on demand.
 
-For availability, pricing, or custom quantities, please contact:
+For availability, pricing, or quantity inquiries, contact:
 
 📧 **SmartBuildsKits@gmail.com**
 
-Assembled modules are intended for hobbyists, educators, prototypes, and small-scale projects. Availability depends on component stock and production capacity.
+These modules are intended for hobbyists, educators, prototypes, and small-scale projects. Availability depends on component stock and production capacity.
 
 ---
 
@@ -131,22 +131,21 @@ Assembled modules are intended for hobbyists, educators, prototypes, and small-s
 
 Suggestions, bug reports, and improvements are welcome.
 
-If you find a bug or have an idea for making this project more educational or easier to build, feel free to open an Issue or submit a Pull Request.
+To report a problem or suggest an improvement, open an Issue. Pull Requests are also welcome for corrections, documentation improvements, and design changes that make the project easier to understand or build.
 
 ---
 
 ## Support the Project
 
-If you find this project useful for learning, teaching, or your own projects, consider supporting its continued development.
+If this project is useful for learning, teaching, or prototyping, you can support its continued development.
 
-Your support helps fund prototype hardware, documentation, educational content, and future open-source projects.
+Donations help fund prototype hardware, documentation, educational resources, and future open-source projects.
 
-❤️ **PayPal Donations**
+❤️ [**Support the project through PayPal**](https://paypal.me/sbarab?country.x=CA&locale.x=fr_CA)
 
-https://paypal.me/sbarab?country.x=CA&locale.x=fr_CA
+Thank you for supporting open-source educational hardware.
 
-Thank you for helping make open-source educational hardware available to everyone.
-
+---
 
 ## License
 
