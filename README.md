@@ -122,6 +122,7 @@ These modules are intended for hobbyists, educators, prototypes, and small-scale
 
 ## Related Projects
 
+- [**SBK_FET1**](https://github.com/sbarabe/SBK_FET1) – N-Channel/P-Channel FET modules
 - [**SBK_RP1**](https://github.com/sbarabe/SBK_RP1) – Reverse Polarity Protection Module
 - [**MémoBot**](https://github.com/sbarabe/MemoBot) – Educational memory game built using SBK_SP1 and SBK_RP1
 
