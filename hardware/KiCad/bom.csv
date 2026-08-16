@@ -1,6 +1,7 @@
 ﻿Designator,Footprint,Quantity,Value,LCSC Part #
 "D1, D2",0603,2,Red,
-J1,PinHeader_1x04_P2.54mm_Vertical,1,1x4 pin header,
+"D3, D4",SOD-323,2,1N4148,
+J1,PinHeader_1x06_P2.54mm_Vertical,1,1x6 pin header,
 Q1,SOT-23,1,AO3400A,
 Q2,SOT-23,1,AO3401A,
 R1,0402,1,4.7 kΩ,
@@ -8,3 +9,4 @@ R2,0603,1,100 kΩ,
 R3,0402,1,47 kΩ,
 R4,0402,1,15 kΩ,
 R5,0402,1,10 kΩ,
+SW1,"SMD, 4x3mm",1,TACTILE SW,
