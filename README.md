@@ -68,7 +68,7 @@ Designed for breadboards, prototypes, and educational projects, **SBK_SP1** prov
 | **SENS** | Active-LOW switch-sense output. Connect to an MCU input with an internal or external pull-up. | 
 
 
-The onboard push button is connected to the **SW** function and can be used to start the module without an external switch.
+The onboard push button is connected to the **SW** and **SENS** functions and can be used to start the module without an external switch.
 
 ---
 
