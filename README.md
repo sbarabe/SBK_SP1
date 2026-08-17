@@ -64,8 +64,9 @@ Designed for breadboards, prototypes, and educational projects, **SBK_SP1** prov
 | **GND** | Ground |
 | **VOUT** | Switched power output |
 | **HOLD** | Active-HIGH MCU power-hold input. Drive HIGH (2 V–VIN) to keep VOUT enabled. | 
-| **SENS** | Active-LOW switch-sense output. Connect to an MCU input with an internal or external pull-up. | 
 | **SW** | Active-LOW external switch input. Connect to GND to start/activate the module. | 
+| **SENS** | Active-LOW switch-sense output. Connect to an MCU input with an internal or external pull-up. | 
+
 
 The onboard push button is connected to the **SW** function and can be used to start the module without an external switch.
 
